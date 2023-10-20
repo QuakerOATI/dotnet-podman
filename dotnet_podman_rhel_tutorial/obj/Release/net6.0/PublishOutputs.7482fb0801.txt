@@ -1,0 +1,7 @@
+/home/adent/Source/tutorials/dotnet-podman/dotnet_podman_rhel_tutorial/bin/Release/net6.0/publish/dotnet_podman_rhel_tutorial
+/home/adent/Source/tutorials/dotnet-podman/dotnet_podman_rhel_tutorial/bin/Release/net6.0/publish/appsettings.Development.json
+/home/adent/Source/tutorials/dotnet-podman/dotnet_podman_rhel_tutorial/bin/Release/net6.0/publish/appsettings.json
+/home/adent/Source/tutorials/dotnet-podman/dotnet_podman_rhel_tutorial/bin/Release/net6.0/publish/dotnet_podman_rhel_tutorial.dll
+/home/adent/Source/tutorials/dotnet-podman/dotnet_podman_rhel_tutorial/bin/Release/net6.0/publish/dotnet_podman_rhel_tutorial.deps.json
+/home/adent/Source/tutorials/dotnet-podman/dotnet_podman_rhel_tutorial/bin/Release/net6.0/publish/dotnet_podman_rhel_tutorial.runtimeconfig.json
+/home/adent/Source/tutorials/dotnet-podman/dotnet_podman_rhel_tutorial/bin/Release/net6.0/publish/dotnet_podman_rhel_tutorial.pdb
