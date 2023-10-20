@@ -1,0 +1,2 @@
+export GITHUB_TOKEN="$(pass show github/tokens/QuakerOATI)"
+export GITHUB_USER=QuakerOATI
